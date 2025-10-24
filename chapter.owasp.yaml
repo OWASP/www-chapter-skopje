@@ -1,0 +1,27 @@
+leaders:
+  - name: Mane Piperevski
+    email: mane.piperevski@owasp.org
+    github: mpiperevski
+  - name: Rijad Ferati
+    email: rijad.ferati@owasp.org
+  - name: Saso Kostich
+    email: saso.kostich@owasp.org
+location:
+  country: North Macedonia
+  country_code: MK
+  region: Skopje Region
+  city: Skopje
+  latitude: 41.9961816
+  longitude: 21.4319213
+meetup_group: owasp-skopje-meetup-group
+name: OWASP Skopje
+repositories:
+  - name: www-chapter-skopje
+    url: https://github.com/OWASP/www-chapter-skopje
+    description: OWASP Foundation web repository
+tags:
+  - events-tag
+  - pastevents-tag
+  - participation-tag
+  - sponsorship-tag
+website: https://owasp.org/www-chapter-skopje
